@@ -1,0 +1,1 @@
+SET pATH="C:\JDK1.3\BIN"
